@@ -140,4 +140,4 @@ This story has been proudly referenced by these books below:
 - [Understanding ECMAScript 6](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
 ## Thanks a lot…
 
-***If you would like to hire me for your next cool project, or just want to say hello… my twitter handle is*** ****[***@harmanmanchanda***](http://bit.ly/tw-harry) *******for getting in touch with me! My DM’s are open to the public so just hit me up.***
+***If you would like to hire me for your next cool project, or just want to say hello… my twitter handle is [@harmanmanchanda](http://bit.ly/tw-harry) for getting in touch with me! My DM’s are open to the public so just hit me up.***
