@@ -1,6 +1,6 @@
 # Part 4 - Strings and ES6 Template Strings
 
-Welcome back, in the previous article we covered the **Number** Datatype within JavaScript. Now we will cover **Strings** and also ECMAScript 6, **Template Strings**!
+Welcome back, in the [previous](https://tech.io/playgrounds/6618/modern-es6-javascript-pt--3) article we covered the **Number** Datatype within JavaScript. Now we will cover **Strings** and also ECMAScript 6, **Template Strings**!
 
 ## Strings
 
